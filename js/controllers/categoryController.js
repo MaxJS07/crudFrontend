@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     lblModal.textContent = "Actualizar categoría";
                     
                     //Ya cargados los datos, mostramos el modal
-                    modal.show;
+                    modal.show();
                 });
 
                 //Funcionalidad botones eliminar
